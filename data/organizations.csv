@@ -1,0 +1,8 @@
+org_id,fiscal_year_end_month,notes
+Org A,December,2013 excluded: source shows income figures identical to 2014 (likely duplicate).
+Org B,December,
+Org C,December,"Filed the short Form 990-EZ in 2011-2012, excluded. Standard Form 990 from 2013."
+Org D,September,
+Org E,March,Fiscal year ended December through 2014 and March from 2016. The 3-month transition filing (2015) is excluded.
+Org F,June,FY2023 uses the later of two returns filed for that year.
+Org G,December,"Filed as a private foundation (Form 990-PF) through 2014, excluded. Standard Form 990 from 2015."
